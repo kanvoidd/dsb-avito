@@ -1,0 +1,16 @@
+# данные большие, в гит не кладем
+data/
+runs/
+
+# питон
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ноутбуки
+.ipynb_checkpoints/
+
+# ide
+.idea/
+.vscode/
