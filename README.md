@@ -31,6 +31,11 @@ python -m src.predict
 
 ### Одним ноутбуком
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kanvoidd/dsb-avito/blob/main/solution.ipynb)
+
+В колабе достаточно открыть по кнопке и нажать Run all: ноутбук сам склонирует репозиторий, поставит onnxruntime
+и скачает данные задания по ссылке из условия. Через несколько минут будет `submission.csv`.
+
 Все решение (данные, синтетика, модель, обучение, экспорт, предикт) лежит еще и в одном ноутбуке `solution.ipynb`.
 Открыть его из корня репозитория и запустить все ячейки, в конце получится `submission.csv`.
 Флаг `TRAIN` в первой ячейке: `False` (по умолчанию) берет готовые веса из `weights/`, `True` делает все с нуля
