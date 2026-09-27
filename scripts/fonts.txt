@@ -1,0 +1,204 @@
+Balsamiq Sans;Display;400,700,400i;train
+Bellota;Display;400,700,400i;train
+Bellota Text;Display;400,700,400i;train
+Climate Crisis;Display;400;train
+Comfortaa;Display;400,700;train
+Comic Relief;Display;400,700;train
+Forum;Display;400;val
+Handjet;Display;400,700,900;train
+Kablammo;Display;400;train
+Kelly Slab;Display;400;train
+Libertinus Serif Display;Display;400;train
+Lobster;Display;400;train
+Oi;Display;400;train
+Orelega One;Display;400;val
+Pixelify Sans;Display;400,700;train
+Poiret One;Display;400;train
+Press Start 2P;Display;400;train
+Prosto One;Display;400;train
+Rubik Dirt;Display;400;train
+Rubik Distressed;Display;400;train
+Rubik Spray Paint;Display;400;val
+Rubik Wet Paint;Display;400;train
+Ruslan Display;Display;400;train
+Shantell Sans;Display;400,700,400i;train
+Stalinist One;Display;400;train
+Tektur;Display;400,700,900;train
+Underdog;Display;400;train
+Viaoda Libre;Display;400;val
+Yeseva One;Display;400;train
+Amatic SC;Handwriting;400,700;train
+Bad Script;Handwriting;400;train
+Caveat;Handwriting;400,700;train
+Comforter;Handwriting;400;train
+Comforter Brush;Handwriting;400;train
+Great Vibes;Handwriting;400;train
+Marck Script;Handwriting;400;val
+Neucha;Handwriting;400;train
+Pacifico;Handwriting;400;train
+Pangolin;Handwriting;400;train
+Playpen Sans;Handwriting;400,700;train
+Yomogi;Handwriting;400;train
+Anonymous Pro;Monospace;400,700,400i;train
+Cousine;Monospace;400,700,400i;train
+Fira Code;Monospace;400,700;train
+Fira Mono;Monospace;400,700;train
+Geist Mono;Monospace;400,700,900,400i;train
+IBM Plex Mono;Monospace;400,700,400i;train
+Iosevka Charon;Monospace;400,700,400i;val
+Iosevka Charon Mono;Monospace;400,700,400i;train
+JetBrains Mono;Monospace;400,700,400i;train
+Lilex;Monospace;400,700,400i;train
+Martian Mono;Monospace;400,700;train
+Overpass Mono;Monospace;400,700;train
+PT Mono;Monospace;400;train
+Roboto Mono;Monospace;400,700,400i;val
+Source Code Pro;Monospace;400,700,900,400i;train
+Ubuntu Mono;Monospace;400,700,400i;train
+Ubuntu Sans Mono;Monospace;400,700,400i;train
+Victor Mono;Monospace;400,700,400i;train
+Advent Pro;Sans Serif;400,700,900,400i;train
+Akt;Sans Serif;400,700,900;train
+Alegreya Sans;Sans Serif;400,700,900,400i;train
+Alegreya Sans SC;Sans Serif;400,700,900,400i;train
+Alumni Sans;Sans Serif;400,700,900,400i;train
+Alumni Sans Collegiate One;Sans Serif;400,400i;train
+Alumni Sans Pinstripe;Sans Serif;400,400i;val
+Alumni Sans SC;Sans Serif;400,700,900,400i;train
+Andika;Sans Serif;400,700,400i;train
+Arimo;Sans Serif;400,700,400i;train
+Arsenal;Sans Serif;400,700,400i;train
+Arsenal SC;Sans Serif;400,700,400i;train
+Carlito;Sans Serif;400,700,400i;train
+Cascadia Code;Sans Serif;400,700,400i;val
+Cascadia Mono;Sans Serif;400,700,400i;train
+Commissioner;Sans Serif;400,700,900;train
+Cuprum;Sans Serif;400,700,400i;train
+Days One;Sans Serif;400;train
+Didact Gothic;Sans Serif;400;train
+El Messiri;Sans Serif;400,700;train
+Exo 2;Sans Serif;400,700,900,400i;val
+Finlandica Headline;Sans Serif;400,700,900,400i;train
+Finlandica Text;Sans Serif;400,700,900,400i;train
+Fira Sans;Sans Serif;400,700,900,400i;train
+Fira Sans Condensed;Sans Serif;400,700,900,400i;train
+Fira Sans Extra Condensed;Sans Serif;400,700,900,400i;train
+Geist;Sans Serif;400,700,900,400i;train
+Geologica;Sans Serif;400,700,900;val
+Gidole;Sans Serif;400;train
+Golos Text;Sans Serif;400,700,900;train
+Google Sans;Sans Serif;400,700,400i;train
+IBM Plex Sans;Sans Serif;400,700,400i;train
+Inter;Sans Serif;400,700,900,400i;train
+Inter Tight;Sans Serif;400,700,900,400i;train
+Istok Web;Sans Serif;400,700,400i;val
+Jost;Sans Serif;400,700,900,400i;train
+Jura;Sans Serif;400,700;train
+Libertinus Sans;Sans Serif;400,700,400i;train
+Libre Franklin;Sans Serif;400,700,900,400i;train
+Liter;Sans Serif;400;train
+Lunasima;Sans Serif;400,700;train
+Manrope;Sans Serif;400,700;val
+Marmelad;Sans Serif;400;train
+Moderustic;Sans Serif;400,700;train
+Montserrat;Sans Serif;400,700,900,400i;train
+Montserrat Alternates;Sans Serif;400,700,900,400i;train
+Montserrat Underline;Sans Serif;400,700,900,400i;train
+Mulish;Sans Serif;400,700,900,400i;train
+Nata Sans;Sans Serif;400,700,900;val
+News Cycle;Sans Serif;400,700;train
+Nobile;Sans Serif;400,700,400i;train
+Noto Sans;Sans Serif;400,700,900,400i;train
+Noto Sans Display;Sans Serif;400,700,900,400i;train
+Noto Sans Mono;Sans Serif;400,700,900;train
+Nunito;Sans Serif;400,700,900,400i;train
+Nunito Sans;Sans Serif;400,700,900,400i;val
+Onest;Sans Serif;400,700,900;train
+Open Sans;Sans Serif;400,700,400i;train
+Oswald;Sans Serif;400,700;train
+Overpass;Sans Serif;400,700,900,400i;train
+PT Sans;Sans Serif;400,700,400i;train
+PT Sans Caption;Sans Serif;400,700;train
+PT Sans Narrow;Sans Serif;400,700;val
+Pattaya;Sans Serif;400;train
+Philosopher;Sans Serif;400,700,400i;train
+Play;Sans Serif;400,700;train
+Pliant;Sans Serif;400,700,900,400i;train
+Raleway;Sans Serif;400,700,900,400i;train
+Roboto;Sans Serif;400,700,900,400i;train
+Roboto Condensed;Sans Serif;400,700,900,400i;val
+Roboto Flex;Sans Serif;400,700,900;train
+Rubik;Sans Serif;400,700,900,400i;train
+Rubik Mono One;Sans Serif;400;train
+Ruda;Sans Serif;400,700,900;train
+Russo One;Sans Serif;400;train
+SN Pro;Sans Serif;400,700,900,400i;train
+Sansation;Sans Serif;400,700,400i;val
+Scada;Sans Serif;400,700,400i;train
+Science Gothic;Sans Serif;400,700,900;train
+Seymour One;Sans Serif;400;train
+Sofia Sans;Sans Serif;400,700,900,400i;train
+Sofia Sans Condensed;Sans Serif;400,700,900,400i;train
+Sofia Sans Extra Condensed;Sans Serif;400,700,900,400i;train
+Sofia Sans Semi Condensed;Sans Serif;400,700,900,400i;val
+Source Sans 3;Sans Serif;400,700,900,400i;train
+Tenor Sans;Sans Serif;400;train
+TikTok Sans;Sans Serif;400,700,900;train
+Tiny5;Sans Serif;400;train
+Tuffy;Sans Serif;400,700,400i;train
+Ubuntu;Sans Serif;400,700,400i;train
+Ubuntu Condensed;Sans Serif;400;val
+Ubuntu Sans;Sans Serif;400,700,400i;train
+Unbounded;Sans Serif;400,700,900;train
+Wix Madefor Display;Sans Serif;400,700;train
+Wix Madefor Text;Sans Serif;400,700,400i;train
+Yanone Kaffeesatz;Sans Serif;400,700;train
+Ysabeau;Sans Serif;400,700,900,400i;train
+Ysabeau Infant;Sans Serif;400,700,900,400i;val
+Ysabeau Office;Sans Serif;400,700,900,400i;train
+Ysabeau SC;Sans Serif;400,700,900;train
+Alegreya;Serif;400,700,900,400i;train
+Alegreya SC;Serif;400,700,900,400i;train
+Alice;Serif;400;train
+Bitter;Serif;400,700,900,400i;train
+Bona Nova;Serif;400,700,400i;train
+Bona Nova SC;Serif;400,700,400i;train
+Brygada 1918;Serif;400,700,400i;val
+Charis SIL;Serif;400,700,400i;train
+Cormorant;Serif;400,700,400i;train
+Cormorant Garamond;Serif;400,700,400i;train
+Cormorant Infant;Serif;400,700,400i;train
+Cormorant SC;Serif;400,700;train
+Cormorant Unicase;Serif;400,700;train
+EB Garamond;Serif;400,700,400i;val
+Gabriela;Serif;400;train
+Gentium Book Plus;Serif;400,700,400i;train
+Gentium Plus;Serif;400,700,400i;train
+IBM Plex Serif;Serif;400,700,400i;train
+Kurale;Serif;400;train
+Ledger;Serif;400;train
+Libertinus Serif;Serif;400,700,400i;val
+Literata;Serif;400,700,900,400i;train
+Lora;Serif;400,700,400i;train
+Merriweather;Serif;400,700,900,400i;train
+Noto Serif;Serif;400,700,900,400i;train
+Noto Serif Display;Serif;400,700,900,400i;train
+Old Standard TT;Serif;400,700,400i;train
+Oranienbaum;Serif;400;val
+PT Serif;Serif;400,700,400i;train
+PT Serif Caption;Serif;400,400i;train
+Piazzolla;Serif;400,700,900,400i;train
+Playfair;Serif;400,700,900,400i;train
+Playfair Display;Serif;400,700,900,400i;train
+Playfair Display SC;Serif;400,700,900,400i;train
+Podkova;Serif;400,700;val
+Prata;Serif;400;train
+Roboto Serif;Serif;400,700,900,400i;train
+Roboto Slab;Serif;400,700,900;train
+STIX Two Text;Serif;400,700,400i;train
+Source Serif 4;Serif;400,700,900,400i;train
+Spectral;Serif;400,700,400i;train
+Spectral SC;Serif;400,700,400i;val
+Tinos;Serif;400,700,400i;train
+Vollkorn;Serif;400,700,900,400i;train
+Vollkorn SC;Serif;400,700,900;train

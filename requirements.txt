@@ -7,5 +7,6 @@ matplotlib==3.11.2
 tqdm==4.70.1
 pyyaml==6.0.3
 pyarrow==25.0.1
+fonttools==4.66.0
 onnx==1.23.0
 onnxruntime==1.30.0
