@@ -1,0 +1,26 @@
+# все настройки в одном месте
+
+seed: 42
+
+input:
+  width: 256          # ширина входа сетки, высота всегда 32 (см. src/common.py)
+
+data:
+  synth_train: [train]                  # data/synth/*.npz
+  synth_val: [val]
+  real_train: [coco_train, ic15_train, textocr_train, hw_ru_train, plates_ru_train]   # data/real/*.npz
+  real_val: [coco_val, ic15_val, textocr_val, hw_ru_val, plates_ru_val]
+  real_share: 0.3     # какая доля батча из реальных кропов (остальное синтетика)
+
+model:
+  width_mult: 1.0     # множитель числа каналов
+
+train:
+  epochs: 10
+  samples_per_epoch: 150000
+  batch_size: 256
+  lr: 0.003
+  weight_decay: 0.0001
+  label_smoothing: 0.02
+  threads: 4
+  workers: 2
