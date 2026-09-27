@@ -41,7 +41,7 @@ def light_aug(arr, rng):
         cut = int(rng.integers(1, 4))
         arr = arr[cut:] if rng.random() < 0.5 else arr[:-cut]
         arr = cv2.resize(arr, (arr.shape[1], h), interpolation=cv2.INTER_LINEAR)
-    # инверсия (светлый текст на темном <-> темный на светлом)
+    # инверсия (светлый текст на темном становится темным на светлом и наоборот)
     if rng.random() < 0.2:
         arr = 255 - arr
     # гамма
@@ -68,7 +68,7 @@ class RotDataset(Dataset):
         self.packs = packs
         self.width = width
         self.train = train
-        # глобальный индекс -> (номер пачки, индекс внутри)
+        # глобальный индекс переводим в (номер пачки, индекс внутри)
         self.index = [(pi, i) for pi, p in enumerate(packs) for i in range(len(p))]
         self.seed = seed
         rng = np.random.RandomState(seed)

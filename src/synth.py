@@ -465,7 +465,7 @@ class SynthGenerator:
             return None
         y0, y1, x0, x1 = ys.min(), ys.max() + 1, xs.min(), xs.max() + 1
         th = y1 - y0
-        # поля сверху и снизу независимые, распределение одинаковое -> никакой подсказки про ориентацию
+        # поля сверху и снизу независимые, распределение одинаковое, значит никакой подсказки про ориентацию
         top = int(th * rng.uniform(-0.08, 0.35))
         bottom = int(th * rng.uniform(-0.08, 0.35))
         left = int(th * rng.uniform(-0.05, 0.6))
@@ -540,7 +540,7 @@ def main():
     parser.add_argument('--workers', type=int, default=4)
     args = parser.parse_args()
 
-    # каждая пачка со своим сидом -> результат не зависит от числа процессов
+    # каждая пачка со своим сидом, поэтому результат не зависит от числа процессов
     n_chunks = (args.n + CHUNK - 1) // CHUNK
     jobs = [(args.split, args.seed * 100000 + i + (50000 if args.split == 'val' else 0),
              min(CHUNK, args.n - i * CHUNK)) for i in range(n_chunks)]

@@ -32,7 +32,7 @@ RAW_DIR = os.path.join(ROOT, 'data', 'raw')
 OUT_DIR = os.path.join(ROOT, 'data', 'real')
 
 HF = 'https://huggingface.co/datasets'
-# имя -> (ссылка на parquet, что с ним делать)
+# имя: (ссылка на parquet, что с ним делать)
 # train / val - целиком в обучение или в валидацию, split - делим сами 80/20
 SOURCES = {
     'coco_train': (f'{HF}/Bekhouche/COCO-Text_V2_STR/resolve/main/data/train-00000-of-00001.parquet', 'train'),

@@ -58,7 +58,7 @@ def to_gray(img):
 
 
 def resize_to_height(gray, height=HEIGHT, max_w=MAX_STORE_W):
-    """Серую картинку любого размера -> высота height, ширина пропорционально (но не больше max_w)."""
+    """Серую картинку любого размера приводим к высоте height, ширина пропорционально (но не больше max_w)."""
     h, w = gray.shape[:2]
     new_w = int(round(w * height / h))
     new_w = max(4, min(new_w, max_w))
@@ -68,13 +68,13 @@ def resize_to_height(gray, height=HEIGHT, max_w=MAX_STORE_W):
 
 
 def prepare_image(img, height=HEIGHT, max_w=MAX_STORE_W):
-    """Главная функция препроцессинга: BGR/серая картинка -> uint8 массив (height, w)."""
+    """Главная функция препроцессинга: на входе BGR/серая картинка, на выходе uint8 массив (height, w)."""
     return resize_to_height(to_gray(img), height, max_w)
 
 
 def to_model_input(arr, width):
     """
-    uint8 (32, w) -> float32 (1, 32, width) для сетки.
+    uint8 (32, w) в float32 (1, 32, width) для сетки.
     Если картинка шире чем width, то сжимаем по горизонтали. Потом нормируем по самой картинке
     (минус среднее, делим на std) и ставим по центру холста из нулей.
     """

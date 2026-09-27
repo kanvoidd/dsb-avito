@@ -1,5 +1,5 @@
 """
-Предсказания для теста -> submission.csv
+Предсказания для теста, на выходе submission.csv
 
     python -m src.predict                                 # финальная модель из weights/
     python -m src.predict --weights runs/base_w1/best.pt  # любой чекпоинт из экспериментов
@@ -22,7 +22,7 @@ from src.models import build_model
 
 
 def load_predictor(path, threads=4):
-    """Возвращает функцию: батч (N, 1, 32, W) numpy -> логиты (N,). Умеет onnx и торчевые .pt"""
+    """Возвращает функцию: по батчу (N, 1, 32, W) numpy выдает логиты (N,). Умеет onnx и торчевые .pt"""
     if path.endswith('.onnx'):
         import onnxruntime as ort
         so = ort.SessionOptions()
